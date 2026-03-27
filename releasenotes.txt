@@ -1,0 +1,8 @@
+/*
+ * releaenotes: NEO-2.0.1.5
+ * author: ggi (gerhard.gaida@itopea.de)
+ * date: 17.09.2024
+*/
+
+1. Clouds: Button "Schliessen" unsichtbar nach de, er betätigt wurde
+ 

@@ -1,0 +1,36 @@
+12.04.2022 - v0.95
+==================
+- Bugfix: Präsentations-Screen wurde schwarz nach dem schließen der Annotations-funktion
+
+26.03.2022 - v0.94
+==================
+- qt aktualisiert
+- webbrowser aktualisiert und hardwarebeschleunigung aktiviert
+- bugfix: browserversion war zu alt für crestron html5 xpanel
+- bugfix: Online-Platformen; der untere schließen button hat im präsentations-modus nicht richtig geschlossen
+- bugfix?: on-screen keyboard - unzuverlässige backspace-taste ( neuer versuch )
+
+15.03.2022 - v0.931
+===================
+- Bugfix: Delete-Funktion des WebBrowsers überarbeitet ( führte teilweise zu weißen seiten )
+- Bugfix: "Online-Platformen"-Übersicht wurde gespiegelt wenn man von einer Website zurück ging 
+
+14.03.2022 - v0.93
+==================
+- WebBrowser: mp4 videos aktiviert ( zb für youtube videos )
+- Mediensteuerung: Reload Button hinzugefügt
+- PowerPoint verstecken bis es fertig geladen ist ( desktop nicht zeigen )
+- Bugfix: Content-Spiegelung - teilweise wurde die Übersicht der Präsentationen / Mediathek gespiegelt
+- Bugfix: Offenes Keyboard hat verhindert, dass das Program beendet wird
+- Bugfix?: unzuverlässiger Keyboard-Input ( ein versuch )
+
+03.02.2022 - v0.92
+==================
+- PowerPoint-Handling überarbeitet
+- WindowSwitcher überarbeitet 
+- Bugfix: OnScreenKeyboard Eingabe war unzuverlässig
+- Bugfix: Bereichs-Highlight ging verloren
+- Bugfix: App konnte mehrfach gestartet werden
+- Bugfix: App hat sich teilweise nicht richtig beendet
+- Bugfix: PowerPoint startete ungewollt bei diversen Aktionen im Programm
+- Bugfix: Schnellwahltasten verhielten sich komisch und verschwanden nicht zuverlässig

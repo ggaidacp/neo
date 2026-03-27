@@ -1,0 +1,4 @@
+PATH=
+C:\Program Files\OpenLogic\jdk-17.0.8.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\ggaid\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64;
+INCLUDE=C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um
+LIB=C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22000.0\ucrt\x64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22000.0\um\x64

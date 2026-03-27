@@ -1,0 +1,24 @@
+{
+    "storyboard": [
+        {
+            "name": "SampleVideo_1280x720_5mb.mp4",
+            "path": "C:/Users/ggaid/neo/data/storyboard",
+            "type": "video"
+        },
+        {
+            "name": "",
+            "path": "C:/Users/ggaid/neo/data/storyboard",
+            "type": ""
+        },
+        {
+            "name": "",
+            "path": "C:/Users/ggaid/neo/data/storyboard",
+            "type": ""
+        },
+        {
+            "name": "",
+            "path": "C:/Users/ggaid/neo/data/storyboard",
+            "type": ""
+        }
+    ]
+}

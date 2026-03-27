@@ -1,0 +1,172 @@
+{
+	"headlines": [
+        {
+			"intranet": "Unsere Webseiten",
+            "socialmedia": "Die Deutsche Vermögensberatung auf Social Media",
+            "partners": "Links zu Partnerseiten"
+        }
+    ],
+    "intranet": [
+        {
+            "name": "DVAG",
+            "url": "https://dvag.de/dvag/index.html",
+            "icon": "img/globe.png"
+        },
+        {
+            "name": "DVAG Karriere",
+            "url": "https://allfinanz.ag/ag/index.html",
+            "icon": "img/karriere.png"
+        },
+        {
+            "name": "VB Welt",
+            "url": "https://meine.dvag",
+            "icon": "img/vbwelt.png"
+        }
+    ],
+    "socialmedia": [
+	    {
+            "name": "",
+            "url": "https://www.kununu.com/de/deutsche-vermoegensberatung",
+            "icon": "img/kununu.png"
+        },
+		{
+            "name": "",
+            "url": "https://www.xing.com/company/dvag",
+            "icon": "img/xing.png"
+        },
+		{
+            "name": "",
+            "url": "https://de.linkedin.com/company/dvag/",
+            "icon": "img/linkedin.png"
+        },
+        {
+            "name": "",
+            "url": "https://www.facebook.com/DVAG/",
+            "icon": "img/facebook.png"
+        },
+		{
+            "name": "",
+            "url": "https://twitter.com/DVAG",
+            "icon": "img/x.png"
+        },
+		{
+            "name": "",
+            "url": "https://www.instagram.com/deutsche_vermoegensberatung/",
+            "icon": "img/instagram.png"
+        },
+		{
+            "name": "",
+            "url": "https://www.youtube.com/user/dvagfilme",
+            "icon": "img/youtube.png"
+        },
+		{
+            "name": "",
+            "url": "https://www.tiktok.com//DVAG/",
+            "icon": "img/tiktok.png"
+        },
+        {
+            "name": "",
+            "url": "https://www.flickr.com/people/dvag_de/",
+            "icon": "img/flickr.png"
+        }
+        
+    ],
+    "partners": [
+        {
+            "name": "Generali",
+            "url": "https://generali.de/privatkunden/",
+            "icon": "img/generali.png"
+        },
+		{
+            "name": "DWS",
+            "url": "https://dws.de/",
+            "icon": "img/dws.png"
+        },
+		{
+            "name": "Advocard",
+            "url": "https://advocard.de/",
+            "icon": "img/advocard.png"
+        },
+		{
+            "name": "DB",
+            "url": "https://deutsche-bank.de/pk.html",
+            "icon": "img/db.png"
+        },
+        {
+            "name": "Badenia",
+            "url": "https://badenia.de/",
+            "icon": "img/badenia.png"
+        },
+		 {
+            "name": "Allianz Global Investors",
+            "url": "https://de.allianzgi.com/",
+            "icon": "img/allianz-global-investors.png"
+        },
+		{
+            "name": "Fingerhaus",
+            "url": "https://fingerhaus.de/",
+            "icon": "img/fingerhaus.png"
+        },
+		{
+            "name": "Geiger Edelmetalle",
+            "url": "https://geiger-goldsparplan.de/",
+            "icon": "img/geiger-edelmetalle.png"
+        },
+		{
+            "name": "BKK Linde",
+            "url": "https://bkk-linde.de/",
+            "icon": "img/bkk-linde.png"
+        },
+		{
+            "name": "Deutsche Verrechnungsstelle",
+            "url": "https://dv-gmbh.de/",
+            "icon": "img/deutsche-verrechnungsstelle.png"
+        },
+		{
+            "name": "Hypo Vereinsbank",
+            "url": "https://hypovereinsbank.de/hvb/privatkunden",
+            "icon": "img/hypo-vereinsbank.png"
+        },
+		{
+            "name": "Santander",
+            "url": "https://santander.de/privatkunden/",
+            "icon": "img/santander.png"
+        },
+        {
+            "name": "Commerzbank",
+            "url": "https://commerzbank.de/",
+            "icon": "img/commerzbank.png"
+        },
+		{
+            "name": "DBBV",
+            "url": "https://dbbv.de/",
+            "icon": "img/dbbv.png"
+        },
+		{
+            "name": "placeholder1",
+            "url": "",
+            "icon": ""
+        },
+		{
+            "name": "placeholder2",
+            "url": "",
+            "icon": ""
+        },
+        {
+            "name": "Meine Akademie",
+            "url": "https://dvag-akademie.blinkit.de/home",
+            "icon": "img/meine-akademie.png"
+        },
+        {
+            "name": "ZVB",
+            "url": "https://dvag-zvb.de/",
+            "icon": "img/zvb.png"
+        },
+        {
+            "name": "Vila Vita Hotels",
+            "url": "https://vilavitahotels.com/",
+            "icon": "img/vila-vita-hotels.png"
+        }
+        
+    ]
+}
