@@ -6,7 +6,7 @@
 #include <QSettings>
 
 const static QString CLIENT_ID = "af47e496-46e0-4685-a237-5f5932a1d70d"; // APP_NEO-Presenter-ExchangeOnline-OAuth_PRD
-const static QString CLIENT_SECRET = "PO08Q~zK5aySLICYg16.k-3lZxfBa~Sk5A02bbRa"; // Secret at 24.10.2025
+const static QString CLIENT_SECRET = ""; // Secret at 24.10.2025
 const static QString TENANT = "930d042f-8145-48e6-871e-7659c17b56da";  // microsoft azure tenant dvad/atlas
 
 class GraphClient : public QObject {
